@@ -1,0 +1,11 @@
+:root{
+    --cor-de-fundo: #e5e5e6;
+}
+
+body{
+ background-color: var(--cor-de-fundo);
+}
+
+hi{
+    background-color: white;
+}
