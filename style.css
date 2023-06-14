@@ -1,4 +1,4 @@
-@import url("style.css/header.css");
+@import url("styles/hearder.css");
 
 :root{
    --cor-de-fundo: #e5e5e6;
@@ -7,8 +7,4 @@
    
 body{
  background-color: var(--cor-de-fundo);
-}
-
-hi{
-    background-color: white;
 }
