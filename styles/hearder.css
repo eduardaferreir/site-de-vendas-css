@@ -2,7 +2,7 @@
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu.svg");
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
 }
@@ -30,7 +30,7 @@
      top: 100%;
 }
 
-.container__botao:checked ~ .lista-menu {
+.container__botao:checked~.lista-menu {
     display: block;
 }
 
@@ -46,8 +46,7 @@
 
 .lista-menu__link{
     background: var(--azul-degrade);
-    -webkit-background-clip:text;
-    -webkit-text-fill-color:transparent;
-    background-clip:text;
-
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 } 
